@@ -2,8 +2,8 @@
 This package can transform the joy messages to mavros rc messages and I have already tested it in TBS TANGO remote control. If your use other remote control, you may chage the config/joy.yaml.
 
 1、Build 
-**Ubuntu20.04**
-Clone the repository and catkin_make:
+
+Clone the repository and catkin_make(**Ubuntu20.04**):
 ```
     sudo apt install ros-noetic-joy ros-noetic-mavos ros-noetic-mavros-extras
     cd ~/catkin_ws/src
